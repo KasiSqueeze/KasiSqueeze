@@ -125,3 +125,34 @@
   </footer>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>KasiSqueeze – 100% Natural Juice from South Africa</title>
+  <meta name="description" content="KasiSqueeze is a 100% natural fruit juice brand made in Tembisa. Freshly squeezed, no added sugar, just pure fruit goodness." />
+  
+  <!-- Open Graph Meta -->
+  <meta property="og:title" content="KasiSqueeze – 100% Natural Juice from South Africa" />
+  <meta property="og:description" content="KasiSqueeze offers locally made, cold-pressed fruit juices. Explore our Orange, Pineapple, and Grape flavors." />
+  <meta property="og:image" content="https://kasisqueeze.github.io/KasiSqueeze/images/kasisqueeze-preview.png" />
+  <meta property="og:url" content="https://kasisqueeze.github.io/KasiSqueeze/" />
+  <meta property="og:type" content="website" />
+
+  <!-- Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "KasiSqueeze",
+    "url": "https://kasisqueeze.github.io/KasiSqueeze/",
+    "logo": "https://kasisqueeze.github.io/KasiSqueeze/images/logo.png",
+    "sameAs": [
+      "https://www.instagram.com/kasisqueeze"
+    ]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
