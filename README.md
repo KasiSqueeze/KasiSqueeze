@@ -113,7 +113,7 @@
   <section class="content" id="contact">
     <h2>Contact Us</h2>
     <p>Email: info@kasisqueeze.co.za</p>
-    <p>Phone: +27 71 234 5678</p>
+    <p>Phone: +27 67 009 2418</p>
     <p>Based in Ivory Park, Tembisa</p>
   </section>
   <footer>
